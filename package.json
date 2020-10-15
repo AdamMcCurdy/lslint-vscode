@@ -24,7 +24,7 @@
     "contributes": {
         "configuration": {
             "type": "object",
-            "title": "lsl linter configuration",
+            "title": "LSLinter",
             "properties": {
                 "lsllinter.enable": {
                     "type": "boolean",
@@ -35,6 +35,11 @@
                     "type": "boolean",
                     "default": false,
                     "description": "Show warning message if there is an error when saving a file"
+                },
+                "lsllinter.realtimeLinting": {
+                    "type": "boolean",
+                    "default": true,
+                    "description": "Immediately check for linting errors"
                 },
                 "lsllinter.interpreter": {
                     "type": "string",
