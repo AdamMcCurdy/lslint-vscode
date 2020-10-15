@@ -3,8 +3,8 @@
 import * as path from "path";
 import * as vscode from "vscode";
 import {spawn, ChildProcess} from "child_process";
-import { pathToFileURL } from "url";
-import { print } from "util";
+// import { pathToFileURL } from "url";
+// import { print } from "util";
 
 // const OUTPUT_REGEXP = /([0-9]+): (.+) near.*[<'](.*)['>]/;
 

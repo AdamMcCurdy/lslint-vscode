@@ -5,7 +5,8 @@
     "homepage": "",
     "version": "1.0.1",
     "publisher": "AdamMcCurdy",
-    "icon": "icon.svg",
+    "repository": "https://github.com/AdamMcCurdy/lslint-vscode",
+    "icon": "sl.png",
     "galleryBanner": {
         "color": "#050523",
         "theme": "dark"
