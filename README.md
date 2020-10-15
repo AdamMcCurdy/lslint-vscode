@@ -1,4 +1,4 @@
-# vscode-lualinter
+# lslinter-vscode
 
 A simple [Visual Studio Code](https://code.visualstudio.com/) extension to lint LSL scripts with `lslint`
 
@@ -24,8 +24,8 @@ A simple [Visual Studio Code](https://code.visualstudio.com/) extension to lint 
 Default options are:
 ```json
 {
-    "lualinter.enable": true,
-    "lualinter.warnOnSave": false,
+    "lsllinter.enable": true,
+    "lsllinter.warnOnSave": false,
 }        
 ```
 
